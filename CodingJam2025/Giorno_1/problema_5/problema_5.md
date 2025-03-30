@@ -166,6 +166,6 @@ p 0 < O . . - .
 . . > < 0 - . .
 ```
 
-Usando questa matrice iniziale, partendo dalla 4° riga e 6° colonna, il punteggio della matrice è **27892.**
+Usando questa matrice iniziale, partendo dalla 4° riga e 6° colonna, dopo 20 passi il punteggio della matrice è **27892.**
 
-**Obiettivo: calcola il punteggio della matrice (input.txt) dopo 200 passi, partendo dalla 7° riga e 4° colonna.**
+**Obiettivo: calcola il punteggio della matrice (input.txt) dopo 200 passi, partendo dalla 4° riga e 7° colonna.**
